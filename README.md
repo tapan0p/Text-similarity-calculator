@@ -1,2 +1,2 @@
 # Text-similarity-calculator
-This project is about finding similarity between two texts in a scale of 0 to 1
+Imagine having two pieces of text and wanting to know just how alike they are. This project dives deep into understanding the essence of these texts, capturing their underlying meaning through a lens of 384 dimensions. Using an all-MiniLM-L6-v2 model, it transforms these texts into vectors, essentially turning their core messages into mathematical representations. To determine their similarity, it's like finding common ground by aligning these vectors through a process akin to finding their 'dot product'—a mathematical approach to measure their closeness on a scale from 0 to 1.
